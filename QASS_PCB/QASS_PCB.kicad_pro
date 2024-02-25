@@ -470,7 +470,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "QASS_PCB.step",
       "svg": "",
       "vrml": ""
     },
