@@ -1250,6 +1250,12 @@
 		(uuid "7b57958f-ccd5-400b-bc3e-cf3be61a7c93")
 	)
 	(junction
+		(at 250.19 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9035fc01-03ad-4253-9e68-67069bf40785")
+	)
+	(junction
 		(at 179.07 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1817,6 +1823,16 @@
 	)
 	(wire
 		(pts
+			(xy 250.19 86.36) (xy 250.19 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "936cfb0b-8d33-47e8-9599-546850d73b4f")
+	)
+	(wire
+		(pts
 			(xy 163.83 109.22) (xy 163.83 139.7)
 		)
 		(stroke
@@ -1994,6 +2010,16 @@
 			(type default)
 		)
 		(uuid "eec5f257-dac8-43d4-a51f-4c8a52dc93a0")
+	)
+	(wire
+		(pts
+			(xy 255.27 81.28) (xy 255.27 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eec81bfc-ee31-44db-8cff-14c3907fbda3")
 	)
 	(wire
 		(pts
@@ -3190,6 +3216,76 @@
 			(project "QASS_PCB"
 				(path "/4e836cba-8d9e-4ad4-ae4d-2f7aa930d50f"
 					(reference "S5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_SW_solder")
+		(at 252.73 93.98 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "10fd493d-170a-473a-bfe9-360165a279f0")
+		(property "Reference" "MX43"
+			(at 256.54 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "MX_SW_solder"
+			(at 256.54 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_1u"
+			(at 252.73 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 252.73 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 252.73 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "df1cafbb-c143-4e6c-bdd9-a55522a769a2")
+		)
+		(pin "1"
+			(uuid "bff6700c-9f89-429b-b2e5-d70dd6304c04")
+		)
+		(instances
+			(project "QASS_PCB"
+				(path "/4e836cba-8d9e-4ad4-ae4d-2f7aa930d50f"
+					(reference "MX43")
 					(unit 1)
 				)
 			)
@@ -6761,6 +6857,70 @@
 			(project "QASS_PCB"
 				(path "/4e836cba-8d9e-4ad4-ae4d-2f7aa930d50f"
 					(reference "MX23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_stab")
+		(at 153.67 171.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d9c91c96-96ac-4a1a-b56d-1bc260a19677")
+		(property "Reference" "S8"
+			(at 160.02 170.053 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MX_stab"
+			(at 160.02 172.593 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_2.75u"
+			(at 153.67 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 153.67 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "QASS_PCB"
+				(path "/4e836cba-8d9e-4ad4-ae4d-2f7aa930d50f"
+					(reference "S8")
 					(unit 1)
 				)
 			)
