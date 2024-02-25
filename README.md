@@ -1,5 +1,5 @@
 # QASS
-QAZ for a BAE (Big Ass Enter) and 10u spacebar (7u+8u)
+QAZ-like for a BAE (Big Ass Enter) and 10u spacebar (7u+8u)
 
 > [!WARNING]
 > Untested, Prototypes will be ordered soon.
