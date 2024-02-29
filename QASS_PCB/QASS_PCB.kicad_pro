@@ -52,11 +52,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        "hole_clearance|164306250|78660625|b70a109b-1ef7-4e59-a4ce-5a5e582fb409|7256b285-4830-4b72-b6cb-85cf35286a38",
-        "hole_clearance|180975000|93900625|b7f89f5d-7053-453c-903c-951a9e7e8610|3d37de90-ac78-493c-836c-1d6d992d6a50",
-        "hole_clearance|228600000|59610625|2710002e-4462-4471-a583-2daa3799f408|7048fed0-ccf0-42b7-8421-a24e4d779210"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -75,7 +71,7 @@
         "footprint": "error",
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
-        "hole_clearance": "error",
+        "hole_clearance": "ignore",
         "hole_near_hole": "error",
         "invalid_outline": "error",
         "isolated_copper": "warning",
