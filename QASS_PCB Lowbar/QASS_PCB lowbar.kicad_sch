@@ -2909,17 +2909,6 @@
 		)
 		(uuid "7dffe446-1a20-4755-8239-90c77eb5d290")
 	)
-	(text "Xiao-compatibility for pads on backside"
-		(exclude_from_sim no)
-		(at 26.67 43.18 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8bfea003-ec03-4851-864b-19716034655c")
-	)
 	(text "Spacebars 3u"
 		(exclude_from_sim no)
 		(at 158.75 173.99 0)
@@ -3558,28 +3547,6 @@
 			)
 		)
 	)
-	(global_label "c0"
-		(shape input)
-		(at 35.56 50.8 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d4405128-8040-4246-b5c0-286cfa79fe53")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 40.8433 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "c2"
 		(shape input)
 		(at 29.21 85.09 180)
@@ -3637,28 +3604,6 @@
 		(uuid "da903240-ce3d-4f5b-bd4b-9047518ed281")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 234.95 30.2767 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "c7"
-		(shape input)
-		(at 35.56 53.34 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e08dc45c-e94d-4394-8393-bc280872c187")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 40.8433 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7345,74 +7290,6 @@
 			(project "QASS_PCB lowbar"
 				(path "/4e836cba-8d9e-4ad4-ae4d-2f7aa930d50f"
 					(reference "MX11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x02_Pin")
-		(at 30.48 50.8 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "99a9a823-f174-41fe-b87b-d1ebaead6b03")
-		(property "Reference" "J1"
-			(at 31.115 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x02_Pin"
-			(at 31.115 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 30.48 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 30.48 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 30.48 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8fe78429-6937-41e5-ab03-8de7a6517d47")
-		)
-		(pin "2"
-			(uuid "88c2131a-aae3-4b22-8ccf-eaab10fa1c30")
-		)
-		(instances
-			(project "QASS_PCB lowbar"
-				(path "/4e836cba-8d9e-4ad4-ae4d-2f7aa930d50f"
-					(reference "J1")
 					(unit 1)
 				)
 			)
