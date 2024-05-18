@@ -1,6 +1,10 @@
 # QASS
 QAZ-like for a BAE (Big Ass Enter) and 10u spacebar (7u+8u)
 
+![QASS complete](https://moinboards.de/projects/img/qass14.jpg)
+
+More pictures and infos at [Moinboards](https://moinboards.de/projects/qass/).
+
 There are tow versions: normal and lowbar. normal version has the spacebar on the normal PCB. The lowbar uses the PCB as a plate on the bottom row and adds a lower PCB.
 
 - Only the lowbar version was tested and fully finished. Please check the normal version before ordering.
@@ -11,8 +15,8 @@ There are tow versions: normal and lowbar. normal version has the spacebar on th
 The latest version has the lower spacebar. Break off the lower part of the PCB and put it under the bottom row. Add headers at the connection points.
 
 ![QASS KLE](https://github.com/Technofrikus/QASS/blob/master/QASS%20KLE.png?raw=true)
-![Front of PCB](https://github.com/Technofrikus/QASS/blob/master/QASS_PCB/QASS_PCB_F.jpeg)
-![Back of PCB](https://github.com/Technofrikus/QASS/blob/master/QASS_PCB/QASS_PCB_B.jpeg)
+![Front of PCB](https://github.com/Technofrikus/QASS/blob/master/QASS_PCB%20Lowbar/QASS_PCB%20lowbar%20render%20F.png)
+![Back of PCB](https://github.com/Technofrikus/QASS/blob/master/QASS_PCB%20Lowbar/QASS_PCB%20lowbar%20render%20B.png)
 ![Lowbar PCB render](https://github.com/Technofrikus/QASS/blob/master/QASS_PCB_lowbar_2024-Apr-26_04-36-14PM-000_CustomizedView9718968630.png)
 
 ## BOM
