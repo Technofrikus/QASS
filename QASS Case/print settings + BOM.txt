@@ -1,0 +1,16 @@
+The stl includes all parts needed. Right click on it and split into parts. Move the plate and upper part away and group the bottom + logo. In OrcaSlicer this is done in the objects tab by marking all parts, right click and assemble.
+
+The 3mf file are my print settings. Not sure if they work on your printer. Otherwise just import the stl.
+
+Use two different colors for the logo and the rest.
+
+I would recommend using variable layer height. The auto settings + smooth work fine. Otherwise the two faces touching the plate have big layer heights and it doesnt look as good.
+
+Supports: bottom yes, other parts no
+
+I use 3 perimeters, but 2 should work as well.
+
+BOM:
+- 4x M3x3 threaded insert
+- 4x M3x10 srew
+- 4x 5x50mm foot

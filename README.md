@@ -5,8 +5,9 @@ QAZ-like for a BAE (Big Ass Enter) and 10u spacebar (7u+8u)
 ![QASS complete](https://moinboards.de/projects/img/qass14.jpg)
 
 More pictures and infos at [Moinboards](https://moinboards.de/projects/qass/).
+[Buildguide](https://moinboards.de/guides/guide-qass/).
 
-There are tow versions: normal and lowbar. normal version has the spacebar on the normal PCB. The lowbar uses the PCB as a plate on the bottom row and adds a lower PCB.
+There are two versions: normal and lowbar. normal version has the spacebar on the normal PCB. The lowbar uses the PCB as a plate on the bottom row and adds a lower PCB.
 
 - Only the lowbar version was tested and fully finished. Please check the normal version before ordering.
 - Lowbar:
@@ -20,8 +21,16 @@ The latest version has the lower spacebar. Break off the lower part of the PCB a
 ![Back of PCB](https://github.com/Technofrikus/QASS/blob/master/QASS_PCB%20Lowbar/QASS_PCB%20lowbar%20render%20B.png)
 ![Lowbar PCB render](https://github.com/Technofrikus/QASS/blob/master/QASS_PCB_lowbar_2024-Apr-26_04-36-14PM-000_CustomizedView9718968630.png)
 
+## Case
+
+The 3D-printable case files are included now (March 2025).
+Can recommend making the plate from metal. Gives the build more weight and looks nice. Tested with brass and copper. Use the special version to make sure they will not warp during cutting (havent tested it without these, just a precaution).
+Print recommendations included, see txt file. 
+
+It is for the low-bar version only.
+
 ## BOM
 
 - Miao MCU
-- 3mm high hotswap headers and pins (the holes in the PCB a bigger than usual, so only the plastic part of the headers is on the PCB)
+- 3mm high hotswap headers (2.54mm pitch) and pins (the holes in the PCB are bigger than usual, so only the plastic part of the headers is on the PCB)
 - 20x BAV70 diodes
