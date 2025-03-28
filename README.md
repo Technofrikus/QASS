@@ -32,6 +32,6 @@ It is for the low-bar version only.
 
 ## BOM
 
-- Miao MCU
+- [Miao MCU(https://keeb.supply/products/miao) (or [Gemini](https://keeb.supply/products/0xcb-gemini), if you use the ~~force~~ [fork](https://github.com/quark-works/QASS-Zero/tree/main))
 - 3mm high hotswap headers (2.54mm pitch) and pins (the holes in the PCB are bigger than usual, so only the plastic part of the headers is on the PCB)
 - 20x BAV70 diodes
