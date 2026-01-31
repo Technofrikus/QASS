@@ -14,6 +14,7 @@ There are three versions: normal, lowbar (Miao for FAK-Firmware) and lowbar (Gem
   - v1.0 is tested and works with MIAO. XIAO would work as well but the pads on the underside I wanted to use are not GPIOs but only for a special serial protocol. So they cant be used.
   - v1.1 is Untested, but I only made cosmetic changes, so should still work fine.
   - Quark-Works made a fork and changed the MCU to a [Gemini](https://keeb.supply/products/0xcb-gemini) (rp2040 zero compatible). Thanks! You can find it [here](https://github.com/quark-works/QASS-Zero/tree/main).
+  - v1.2 Used the fork by Quarks as a basis. Removed a little mistake and made some cosmetic changes.
 
 The latest version has the lower spacebar. Break off the lower part of the PCB and put it under the bottom row. Add headers at the connection points.
 
@@ -36,6 +37,6 @@ It is for the low-bar version only.
 
 ## BOM
 
-- [Miao MCU](https://keeb.supply/products/miao) (or [Gemini](https://keeb.supply/products/0xcb-gemini), if you use the ~~force~~ [fork](https://github.com/quark-works/QASS-Zero/tree/main))
+- [Miao MCU](https://keeb.supply/products/miao) (or [Gemini](https://keeb.supply/products/0xcb-gemini), if you use the Gemini-PCB
 - 3mm high hotswap headers (2.54mm pitch) and pins (the holes in the PCB are bigger than usual, so only the plastic part of the headers is on the PCB)
 - 20x BAV70 diodes
