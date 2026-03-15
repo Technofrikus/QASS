@@ -4150,7 +4150,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 148.59 88.9 90)
 			(effects
 				(font
@@ -4447,7 +4447,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 158.75 64.77 90)
 			(effects
 				(font
@@ -4535,7 +4535,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 151.13 167.64 90)
 			(effects
 				(font
@@ -4623,7 +4623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 189.23 88.9 90)
 			(effects
 				(font
@@ -4781,7 +4781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 118.11 88.9 90)
 			(effects
 				(font
@@ -5214,7 +5214,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 250.19 99.06 90)
 			(effects
 				(font
@@ -5433,7 +5433,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 128.27 64.77 90)
 			(effects
 				(font
@@ -5589,7 +5589,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 158.75 43.18 90)
 			(effects
 				(font
@@ -5677,7 +5677,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 209.55 88.9 90)
 			(effects
 				(font
@@ -5765,7 +5765,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 148.59 64.77 90)
 			(effects
 				(font
@@ -6068,7 +6068,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 158.75 167.64 90)
 			(effects
 				(font
@@ -6156,7 +6156,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 148.59 43.18 90)
 			(effects
 				(font
@@ -6582,7 +6582,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 222.25 167.64 90)
 			(effects
 				(font
@@ -6670,7 +6670,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 209.55 43.18 90)
 			(effects
 				(font
@@ -6758,7 +6758,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 240.03 43.18 90)
 			(effects
 				(font
@@ -6846,7 +6846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 120.65 167.64 90)
 			(effects
 				(font
@@ -7140,7 +7140,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 179.07 43.18 90)
 			(effects
 				(font
@@ -7634,7 +7634,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 179.07 88.9 90)
 			(effects
 				(font
@@ -7800,7 +7800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 219.71 88.9 90)
 			(effects
 				(font
@@ -8094,7 +8094,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 212.09 167.64 90)
 			(effects
 				(font
@@ -8246,7 +8246,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 179.07 64.77 90)
 			(effects
 				(font
@@ -8334,7 +8334,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 219.71 43.18 90)
 			(effects
 				(font
@@ -8492,7 +8492,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 265.43 114.3 90)
 			(effects
 				(font
@@ -8580,7 +8580,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 189.23 64.77 90)
 			(effects
 				(font
@@ -8949,7 +8949,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 184.15 167.64 90)
 			(effects
 				(font
@@ -9243,7 +9243,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 130.81 167.64 90)
 			(effects
 				(font
@@ -9399,7 +9399,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 250.19 74.93 90)
 			(effects
 				(font
@@ -9487,7 +9487,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 209.55 64.77 90)
 			(effects
 				(font
@@ -9575,7 +9575,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 118.11 43.18 90)
 			(effects
 				(font
@@ -9663,7 +9663,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 158.75 88.9 90)
 			(effects
 				(font
@@ -9889,7 +9889,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 128.27 43.18 90)
 			(effects
 				(font
@@ -9977,7 +9977,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 118.11 64.77 90)
 			(effects
 				(font
@@ -10269,7 +10269,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 189.23 43.18 90)
 			(effects
 				(font
@@ -10559,7 +10559,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 240.03 64.77 90)
 			(effects
 				(font
@@ -10647,7 +10647,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 250.19 43.18 90)
 			(effects
 				(font
@@ -10803,7 +10803,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 240.03 88.9 90)
 			(effects
 				(font
@@ -10891,7 +10891,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 128.27 88.9 90)
 			(effects
 				(font
@@ -11321,7 +11321,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 219.71 64.77 90)
 			(effects
 				(font
@@ -11679,7 +11679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:Diode-dual"
+		(property "Footprint" "TFL:Diode-dual"
 			(at 191.77 167.64 90)
 			(effects
 				(font

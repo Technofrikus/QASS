@@ -15,6 +15,7 @@ There are three versions: normal, lowbar (Miao for FAK-Firmware) and lowbar (Gem
   - v1.1 is Untested, but I only made cosmetic changes, so should still work fine.
   - Quark-Works made a fork and changed the MCU to a [Gemini](https://keeb.supply/products/0xcb-gemini) (rp2040 zero compatible). Thanks! You can find it [here](https://github.com/quark-works/QASS-Zero/tree/main).
   - v1.2 Used the fork by Quarks as a basis. Removed a little mistake and made some cosmetic changes.
+  - v1.3 the prvious version works, but the silkscreen of the diodes is not visible (orientation of diodes). Corrected this and changed the direction of one diode to be more consistent with the other ones around it.
 
 The latest version has the lower spacebar. Break off the lower part of the PCB and put it under the bottom row. Add headers at the connection points.
 
@@ -33,7 +34,7 @@ It is for the low-bar version only.
 
 ## Firmware
 - FAK config and info can be found on [moinboards](https://moinboards.de/guides/guide-qass/#firmware-and-flashing) and here in the firmware folder.
-- Vial/Qmk for the fork by Quark. Not tested on the hardware yet, but should work.
+- Vial/Qmk for the fork by Quark. Confirmed working.
 
 ## BOM
 
